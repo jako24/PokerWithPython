@@ -16,6 +16,7 @@ game = PokerGame(4, 5)
 
 # Play the game
 print(game.play())
+
 ```
 The cards will be dealt, each player's hand will be shown, and the winner will be decided via the play() method. The console will print the winner's name along with their hand ranking.
 
